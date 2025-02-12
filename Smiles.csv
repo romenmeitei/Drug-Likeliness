@@ -1,0 +1,14 @@
+﻿SMILES
+NC(C(=O)O)CCCC(C(=O)O)N
+O=c1[nH]c2ccccc2c2c1C=CC(O2)(C)C
+OC[C@H]1O[C@@H](OC[C@H]2O[C@@H](OC(C#N)(C)C)[C@@H]([C@H]([C@@H]2O)O)O)[C@@H]([C@H]([C@@H]1O)O)O
+COc1cccc(c1c1cc(=O)c2c(o1)c(OC)c(c(c2O)OC)OC)O
+COc1cc2oc(cc(=O)c2c(c1OC)OC)c1ccccc1
+OC[C@@H]1[C@@H](O)[C@@H]([C@@H]2N1CC[C@@H]2O)O
+COc1ccc2c(c1)n(C)c(cc2=O)c1ccc2c(c1)OCO2
+OC(C(O)(C)C)COc1c2ccoc2nc2c1cc1OCOc1c2
+COc1ccc(cc1O)c1oc2cc(O)cc(c2c(=O)c1O)O
+Oc1cc2c(=O)oc3c(c2c(c1O)O)c1c(=O)oc2c4c1c(c3O)oc(=O)c4c1c(c2O)oc(=O)c2c1c(O)c(O)c(c2)O
+COc1cc(O)c2c(c1)oc(cc2=O)c1ccccc1
+OC/C=C/c1ccc(c(c1)O)O
+Oc1ccc(cc1)C[C@@H](C(=O)O)N=C/C=C/1\C[C@H](NC(=C1)C(=O)O)C(=O)O
